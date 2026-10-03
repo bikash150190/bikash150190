@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bikash150190
-- 👀 I’m interested in Web application development, android development
-- 🌱 I’m currently learning Java
+- 👀 I’m currently working on startup name Toddler Learn.
 - 📫 How to reach me- https://www.linkedin.com/in/bikashchandra
 
 <!---
